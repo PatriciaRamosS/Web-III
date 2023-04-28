@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gateway-api" />
+        <module name="usuario-api" />
+        <module name="jogos-api" />
+        <module name="eureka-server" />
+        <module name="aposta-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aposta-api" target="17" />
+      <module name="eureka-server" target="17" />
+      <module name="gateway-api" target="17" />
+      <module name="jogos-api" target="17" />
+      <module name="usuario-api" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aposta-api" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="gateway-api" options="-parameters" />
+      <module name="jogos-api" options="-parameters" />
+      <module name="usuario-api" options="-parameters" />
+    </option>
+  </component>
+</project>

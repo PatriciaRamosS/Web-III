@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projoeto-web3-webFlux.iml" filepath="$PROJECT_DIR$/.idea/Projoeto-web3-webFlux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aposta-api/aposta-api.iml" filepath="$PROJECT_DIR$/aposta-api/aposta-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-api/gateway-api.iml" filepath="$PROJECT_DIR$/gateway-api/gateway-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogos-api/jogos-api.iml" filepath="$PROJECT_DIR$/jogos-api/jogos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usuario-api/usuario-api.iml" filepath="$PROJECT_DIR$/usuario-api/usuario-api.iml" />
+    </modules>
+  </component>
+</project>
